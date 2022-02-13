@@ -1,0 +1,12 @@
+{
+  "pizzas": 100,
+  "cp": 1,
+  "pps": 0,
+  "stats": {
+    "clicks": 0,
+    "upgrades_purchased": 0,
+    "toppings_purchased": 0
+  },
+  "upgrades": [],
+  "toppings": []
+}

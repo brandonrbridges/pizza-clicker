@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Item #1",
+    "cost": 1,
+    "power": 1
+  },
+  {
+    "name": "Item #2",
+    "cost": 5,
+    "power": 3
+  },
+  {
+    "name": "Item #3",
+    "cost": 10,
+    "power": 7
+  },
+  {
+    "name": "Ethan's Item",
+    "cost": 1,
+    "power": 100
+  },
+  {
+    "name": "Ivy's Item",
+    "cost": 2,
+    "power": 999
+  }
+]
